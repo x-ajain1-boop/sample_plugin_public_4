@@ -1,17 +1,17 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "sample-plugin2-marketplace",
+  "name": "sample-plugin4-marketplace",
   "description": "Sample plugin2 marketplace for testing Claude Code plugin distribution",
   "owner": {
     "name": "x-ajain1-boop"
   },
   "plugins": [
     {
-      "name": "second-sample-plugin",
+      "name": "sample-plugin-4",
       "description": "A greeting plugin to learn the basics",
       "source": {
         "source": "url",
-        "url": "https://github.com/x-ajain1-boop/sample_plugin2.git"
+        "url": "https://github.com/x-ajain1-boop/sample_plugin_public_4.git"
       }
     }
   ]

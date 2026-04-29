@@ -1,5 +1,5 @@
 {
-  "name": "sample-plugin-marketplace",
+  "name": "sample-plugin4-marketplace",
   "description": "Sample plugin marketplace for testing Claude Code plugin distribution",
   "version": "1.0.0",
   "plugins": [
